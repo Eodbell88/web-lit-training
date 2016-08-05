@@ -35,4 +35,4 @@ For today, you can commit directly to the gh-pages branch, so you can see your c
 
 ![commit](https://cloud.githubusercontent.com/assets/8389648/15445566/b827b73e-1eb5-11e6-9a14-b4a1dd2e6b8d.png)
 
-## I, __eodbell88__, have created this *repo* as part of a web literacy ~~training~~.
+I, __eodbell88__, have created this *repo* as part of a web literacy ~~training~~.
